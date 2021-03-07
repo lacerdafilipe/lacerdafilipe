@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Hi my name is Filipe Lacerda and I'm experienced (+ 3 years) C# .NET full stack developer living in Brazil and working remotely for companies around the globe. Contact-me on: [LinkedIn](https://www.linkedin.com/in/filipe-lacerda-0bb59794/)
 <!--
 **lacerdafilipe/lacerdafilipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
